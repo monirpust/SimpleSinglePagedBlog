@@ -1,0 +1,43 @@
+body {
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width: 80%;
+	padding: 20px;
+	margin: 20px auto;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h4 {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+h2 {
+	color: #2c3e50;
+}
+
+hr {
+    height: 3px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    /*margin: 1em 0;
+    padding: 0;*/
+}
+
+p:nth-of-type(1) {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+p:nth-of-type(4) {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+/*border color: #bdc3c7;
+ date color: #3498db;
+ h2 color #2c3e50
+
+ font: source sans pro;
+ */
